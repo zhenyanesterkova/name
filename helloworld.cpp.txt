@@ -3,5 +3,5 @@
 usingnamespace std;
 
 int main{
-vblhjcvkgvjhbjlnkm;kjhbgfdxghikjl;./,m nbvcxdfert567yu8iokpl;,mknb vcd
+	int n = 0;
 	}
